@@ -1,2 +1,3 @@
 print("kishore")
-print("MachineLearning")
+
+print("Machine Loves Human")
