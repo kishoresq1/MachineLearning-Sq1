@@ -1,1 +1,1 @@
-print("Trigger Succesfully+check one more1")
+print("Trigger Succesfully")
