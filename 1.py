@@ -1,1 +1,1 @@
-Hii
+print("Trigger Succesfully")
